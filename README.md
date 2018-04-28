@@ -1,3 +1,3 @@
 # CasesGenerator
 
-珍爱生命，远离YTXX项目
+珍爱生命，远离YTXX项目!
